@@ -58,12 +58,35 @@ h2{
 
 #ff{
   text-align: center;
+  margin-top: 15px;
 }
 
 #imgpre{
   text-align: center;
   
 }
+
+#bodyachille{
+  text-align: center;
+}
+
+#retourpage{
+  color: white;
+  border: 1px solid;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+#retourpage:hover{
+  color: #ff1616;
+  background-color: white;
+  transition: 1s;
+}
+
+
+
+  
+
 
 #imgpres{
   display: inline-block;
@@ -92,5 +115,29 @@ figcaption{
 
 #leg1{
   margin-top: -20px;
-  margin-bottom: 10px;
 }
+
+#cognat{
+  border-radius: 50%;
+}
+
+#candidat1{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#candidat1:hover{
+  scale: 1.03;
+  transition: 1s;
+
+}
+
+#elec{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
