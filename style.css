@@ -62,13 +62,35 @@ h2{
 
 #imgpre{
   text-align: center;
+  
 }
 
 #imgpres{
-  padding: 20px;
+  display: inline-block;
 }
 
 #imgpres:hover{
-  transform: scale(1.2);
+  transform: scale(1.03);
   transition: 1s;
+}
+
+figcaption{
+  background-color: rgb(00, 00, 00,0.5);
+  color:white;
+  text-align: center;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+#imgidee{
+  text-align: center;
+}
+
+#imgimg{
+  padding: 20px;
+}
+
+#leg1{
+  margin-top: -20px;
+  margin-bottom: 10px;
 }
