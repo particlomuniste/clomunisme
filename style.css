@@ -63,7 +63,7 @@ h2{
 
 #imgpre{
   text-align: center;
-  
+
 }
 
 #bodyachille{
@@ -90,6 +90,7 @@ h2{
 
 #imgpres{
   display: inline-block;
+  padding: 10px;
 }
 
 #imgpres:hover{
@@ -101,8 +102,7 @@ figcaption{
   background-color: rgb(00, 00, 00,0.5);
   color:white;
   text-align: center;
-  margin-right: 150px;
-  margin-left: 150px;
+
 }
 
 #imgidee{
@@ -115,6 +115,8 @@ figcaption{
 
 #leg1{
   margin-top: -20px;
+  margin-right: 130px;
+  margin-left: 130px;
 }
 
 #cognat{
