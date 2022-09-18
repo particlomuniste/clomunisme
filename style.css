@@ -135,11 +135,36 @@ figcaption{
 
 }
 
-#elec{
-  text-align: center;
-}
 
 h1{
   text-align: center;
 }
 
+#cc{
+  text-align: center;
+}
+
+#insta:hover{
+  scale: 1.1;
+  transition: 1s;
+}
+
+footer{
+  text-align: center;
+  background-color: rgb(00,00,00,0.8);
+  margin-bottom: -30px;
+  padding-top: 10px;
+  margin-left: -20px;
+  margin-right: -20px;
+  
+}
+
+#form{
+  width:100%;
+  float:left;
+  text-align:center;
+}
+
+#instagram{
+  background-color: rgb(00, 00, 00,00);
+}
